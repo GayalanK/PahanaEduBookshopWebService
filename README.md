@@ -65,8 +65,7 @@ This project uses **JAX-RS** (Java API for RESTful Web Services) for building th
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/pahana-edu-bookshop-web-service.git
-    cd pahana-edu-bookshop-web-service
+    git clone [(https://github.com/GayalanK/PahanaEduBookshopWebService/tree/main)](https://github.com/GayalanK/PahanaEduBookshopWebService/tree/main)
     ```
 
 2. **Build the Project**:
