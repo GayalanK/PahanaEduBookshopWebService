@@ -1,0 +1,13 @@
+com\bookshop\service\CustomerService.class
+com\bookshop\model\Item.class
+com\bookshop\model\RegisterRequest.class
+com\bookshop\rest\ItemResource.class
+com\bookshop\model\LoginRequest.class
+com\bookshop\rest\CustomerResource.class
+com\bookshop\model\Customer.class
+utils\DatabaseUtils.class
+com\bookshop\service\UserService.class
+com\bookshop\BookshopApplication.class
+com\bookshop\service\ItemService.class
+com\bookshop\rest\UserResource.class
+MySQLConnectionTest.class
